@@ -34,7 +34,7 @@
 
 .text-header {
     font-family: 'Circular Std';
-
+font-weight: normal;
 font-size: 20px;
 line-height: 25px;
 text-align: center;
@@ -42,6 +42,7 @@ text-align: center;
 
 h1 {
     font-family: 'Circular Std';
+    font-weight: normal;
 font-size: 65px;
 line-height: 82px;
 color: #313131;
@@ -85,7 +86,6 @@ margin-bottom: 125px;
 }
 .thin {
     font-family: 'Circular Std';
-font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 23px;
